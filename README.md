@@ -2,9 +2,7 @@
 I'm currently in Y10 at high school, and enjoy coding.
 
 
-***What am I currently working on?*** <br>
 
-I'm currently working on a google extension that allows you to highlight text on a webpage. Although there are many extensions that can already do this, I have found that a significant number of features are looked behind paywalls . 
 
 
 <!--
