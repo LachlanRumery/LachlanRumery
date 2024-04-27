@@ -1,5 +1,4 @@
 ## Hello 👋, I'm `Lachlan Rumery`<sub>(he/him)</sub>.
-I'm currently in Y10 at high school, and enjoy coding.
 
 
 
