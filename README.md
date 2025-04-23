@@ -1,4 +1,4 @@
-## Hello 👋, I'm `Lachlan Rumery`<sub>(he/him)</sub>.
+## Hello 👋, I'm `Lachlan Rumery`.
 
 
 
